@@ -2,11 +2,7 @@
 
 Who am I? I'm a casual web developer, programmer, and Linux user who makes stuff only because it's fun.
 
-<div align="center">
-  <a href="https://coffeebank.github.io/discord">
-    <img src="https://img.shields.io/badge/Join%20my%20Discord-▸-7289DA?style=for-the-badge&logo=discord&logoColor=white&logoWidth=25" />
-  </a>
-</div>
+[![Join my Discord](https://img.shields.io/badge/Join%20my%20Discord-▸-7289DA?style=for-the-badge&logo=discord&logoColor=white&logoWidth=25)](https://coffeebank.github.io/discord)
 <br />
 
 ### A Good User Experience is a Sacred User Experience

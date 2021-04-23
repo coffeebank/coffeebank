@@ -9,7 +9,7 @@ Who am I? I'm a casual web developer, programmer, and Linux user who makes stuff
 
 Have you ever wondered, *"if only that website's shade of gray was darker..."*? Or, you know that almost-perfect Discord bot for hugs and kisses, but always *requires* a @mention so you can never say `=hug server` to your friends? Yes, this is literally why I learned how to code.
 
-Come join me on my journey of stumbling through this wonderful land of programming :) Not for any particular reason (I'm not a Computer Science major), but I sure as heck hope some of my code can help you better engage with the technology around you! [Have questions? Reach me on Discord 📬](https://coffeebank.github.io/discord)
+Come join me on my journey of stumbling through this wonderful land of programming :) I'm no computer scientist, but I hope some of my code can be useful to your needs! [Have questions about my projects? Reach me on Discord 📬](https://coffeebank.github.io/discord)
 
 
 <!--

@@ -1,6 +1,6 @@
 ## Hi! I'm coffeebank ☕
 
-Who am I? I'm a casual web developer, programmer, and Linux user who makes stuff because it's fun 🧑‍💻
+Who am I? I'm a casual web developer, programmer, and Linux user who makes stuff because it's fun :)
 
 [![Join my Discord](https://img.shields.io/badge/Join%20my%20Discord-▸-7289DA?style=for-the-badge&logo=discord&logoColor=white&logoWidth=25)](https://coffeebank.github.io/discord)
 <br />

@@ -14,7 +14,6 @@ Come join me on my journey of stumbling through this wonderful land of programmi
 <br />
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=coffeebank&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=coffeebank&hide=stars&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **coffeebank/coffeebank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

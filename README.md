@@ -1,15 +1,15 @@
 ## Hi! I'm coffeebank ☕
 
-Who am I? I'm a casual web developer, programmer, and Linux user who makes stuff because it's fun :)
+Who am I? Just a casual web developer, programmer, and Linux user who likes making stuff because it's fun :)
 
 [![Join my Discord](https://img.shields.io/badge/Join%20my%20Discord-▸-7289DA?style=for-the-badge&logo=discord&logoColor=white&logoWidth=25)](https://coffeebank.github.io/discord)
 <br />
 
 ### Being a "User" Sucks....
 
-Have you ever wondered, *"if only that website's shade of gray was darker..."*? Or, you know that almost-perfect Discord bot for hugs and kisses, but always *requires* a @mention so you can never say `=hug server` to your friends? Yes, this is literally why I learned how to code.
+Do you ever wonder, *"if only that website's shade of gray was darker..."*? Or, you know that almost-perfect Discord bot for hugs and kisses, but always *requires* a @mention so you can never say `=hug server` to your friends? Yes, this is literally what pushed me to learn coding.
 
-Come join me on my journey of stumbling through this wonderful land of programming :) I'm no computer scientist, but I hope some of my code can be useful to your needs! [Have questions? Reach me on Discord 📬](https://coffeebank.github.io/discord)
+Come join me on my journey of stumbling through this wonderful land of code :) I'm no computer science major, but I hope some of my code can be useful to you! [Have questions? Reach me on Discord 📬](https://coffeebank.github.io/discord)
 
 <br />
 

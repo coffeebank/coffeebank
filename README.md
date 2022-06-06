@@ -6,13 +6,11 @@ Who am I? Just a casual web developer, programmer, and Linux user who likes maki
 [![Join my Matrix](https://img.shields.io/badge/Join%20my%20Matrix-▸-0dbd8b?style=for-the-badge&logo=matrix&logoColor=white&logoWidth=25)](https://matrix.to/#/#coffeebank:matrix.org)
 <br />
 
-### The Great Enlightenment
+### Coding changes expectations....
 
-After you learn how to code, being a "user" just isn't the same anymore....
-
+- Sometimes, you just need something that isn't bloated, runs locally, and more customized for your needs
 - Sometimes, a service is nice, but it's just missing *that one little thing* you know only takes a few minutes to code/fix
 - Sometimes, it's wanting to type one last `.hug server` to your Discord friends, but the bot is requiring you to @mention
-- Sometimes, you just need something that isn't bloated, runs locally, and more customized for your needs
 
 Come join me on my journey of stumbling through this wonderful land of code :) I'm no computer science major, but I hope some of my code can be useful to you! [Have questions? Reach me on Discord 📬](https://coffeebank.github.io/discord) [or Matrix 📧](https://matrix.to/#/#coffeebank:matrix.org)
 

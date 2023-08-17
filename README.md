@@ -16,4 +16,4 @@ Come join me on my journey of stumbling through this wonderful land of code :) I
 
 <br />
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=coffeebank&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=coffeebank&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
